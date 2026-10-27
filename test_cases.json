@@ -1,0 +1,12 @@
+[
+  {"id": "geo_1",  "question": "What is the capital of France?", "must_include": ["Paris"]},
+  {"id": "geo_2",  "question": "What is the capital of Japan?", "must_include": ["Tokyo"]},
+  {"id": "geo_3",  "question": "What is the capital of India?", "must_include": ["Delhi"]},
+  {"id": "sci_1",  "question": "Which planet is the largest in our solar system?", "must_include": ["Jupiter"]},
+  {"id": "sci_2",  "question": "What gas do plants absorb from the air?", "must_include": ["carbon dioxide"]},
+  {"id": "sci_3",  "question": "At what temperature in Celsius does water boil at sea level?", "must_include": ["100"]},
+  {"id": "math_1", "question": "What is 12 multiplied by 5?", "must_include": ["60"]},
+  {"id": "math_2", "question": "What is 100 divided by 4?", "must_include": ["25"]},
+  {"id": "lang_1", "question": "What is the opposite of hot?", "must_include": ["cold"]},
+  {"id": "lang_2", "question": "Which language is mainly spoken in Brazil?", "must_include": ["Portuguese"]}
+]
